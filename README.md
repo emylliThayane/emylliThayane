@@ -1,7 +1,7 @@
 ### Hi there 👋 👋 
 ### I'm Emylli Thayane
 - Living in Brazil, northeast 🌞 🏖️                                                     
-- Student developer backend and frontend HTML,CSS,JS 
+- Student and frontend HTML,CSS,JS 
  SQL Server Relational database 💻 🖱️
 
  ## Connect with me:
